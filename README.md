@@ -22,10 +22,10 @@ Este arquivo contém uma lista detalhada de tarefas para a implementação do ba
 
 ### 3. Repositórios e Serviços
 
-- [ ]  **3-repositories-services**: Criar repositórios e serviços para manipulação de dados
+- [X]  **3-repositories-services**: Criar repositórios e serviços para manipulação de dados
   - [X]  3.1: Criar repositório JPA para a entidade `Produto`
-  - [ ]  3.2: Implementar serviço `ProdutoService` com operações CRUD
-  - [ ]  3.3: Testar serviço com dados simulados
+  - [X]  3.2: Implementar serviço `ProdutoService` com operações CRUD
+  - [X]  3.3: Testar serviço com dados simulados
 
 ### 4. Endpoints REST para CRUD
 
