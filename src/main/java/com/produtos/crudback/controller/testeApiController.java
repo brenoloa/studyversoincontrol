@@ -12,7 +12,7 @@ public class testeApiController {
     @GetMapping
     public String teste(){
 
-        return "GET ok,! ";
+        return "GET api.setup ok,! ";
 
     }
 }
