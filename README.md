@@ -34,25 +34,18 @@ Este arquivo contém uma lista detalhada de tarefas para a implementação do ba
   - [ ]  4.2: Validar dados de entrada com `@Valid`
   - [ ]  4.3: Testar endpoints usando Postman ou Insomnia
 
-### 5. Segurança Básica com Spring Security (Opcional)
+### 5. Testes Unitários e de Integração
 
-- [ ]  **5-security-backend**: Adicionar segurança básica ao projeto
-  - [ ]  5.1: Configurar dependência de Spring Security
-  - [ ]  5.2: Permitir apenas `GET` público e proteger `POST`, `PUT`, `DELETE` com autenticação básica
-  - [ ]  5.3: Testar segurança dos endpoints
+- [ ]  **5-tests-backend**: Implementar testes para garantir a qualidade do código
+  - [ ]  5.1: Criar testes unitários para `ProdutoService`
+  - [ ]  5.2: Criar testes de integração para `ProdutoController`
+  - [ ]  5.3: Verificar persistência e validação de dados
 
-### 6. Testes Unitários e de Integração
+### 6. Documentação do Back-end
 
-- [ ]  **6-tests-backend**: Implementar testes para garantir a qualidade do código
-  - [ ]  6.1: Criar testes unitários para `ProdutoService`
-  - [ ]  6.2: Criar testes de integração para `ProdutoController`
-  - [ ]  6.3: Verificar persistência e validação de dados
-
-### 7. Documentação do Back-end
-
-- [ ]  **7-docs-backend**: Documentar a API para facilitar o uso
-  - [ ]  7.1: Configurar Swagger para gerar documentação da API
-  - [ ]  7.2: Criar um guia básico de uso no `README.md`
-  - [ ]  7.3: Descrever como configurar e rodar o back-end localmente
+- [ ]  **6-docs-backend**: Documentar a API para facilitar o uso
+  - [ ]  6.1: Configurar Swagger para gerar documentação da API
+  - [ ]  6.2: Criar um guia básico de uso no `README.md`
+  - [ ]  6.3: Descrever como configurar e rodar o back-end localmente
 
 ---
