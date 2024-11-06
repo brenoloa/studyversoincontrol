@@ -9,21 +9,21 @@ Este arquivo contém uma lista detalhada de tarefas para a implementação do ba
 ### 1. Setup Inicial do Projeto
 
 - [X]  **1-setup-backend**: Configurar o projeto Spring Boot e conectar ao PostgreSQL
-  - [X]   1.1: Criar projeto Spring Boot com `Spring Web`, `Spring Data JPA` e `PostgreSQL`
+  - [X]  1.1: Criar projeto Spring Boot com `Spring Web`, `Spring Data JPA` e `PostgreSQL`
   - [X]  1.2: Configurar `application.properties` para conectar ao banco de dados PostgreSQL
   - [X]  1.3: Testar conexão com o banco de dados
 
 ### 2. Modelagem do Banco de Dados e Criação de Entidades
 
-- [ ]  **2-model-backend**: Definir as entidades e configurar o banco de dados
-  - [ ]  2.1: Criar a entidade `Produto` com atributos `id`, `nome`, `descricao`, `preco`, `quantidade`
-  - [ ]  2.2: Mapear relações entre entidades se necessário
-  - [ ]  2.3: Testar persistência das entidades com dados de exemplo
+- [X]  **2-model-backend**: Definir as entidades e configurar o banco de dados
+  - [X]  2.1: Criar a entidade `Produto` com atributos `id`, `nome`, `descricao`, `preco`, `quantidade`
+  - [X]  2.2: Mapear relações entre entidades se necessário
+  - [X]  2.3: Testar persistência das entidades com dados de exemplo
 
 ### 3. Repositórios e Serviços
 
 - [ ]  **3-repositories-services**: Criar repositórios e serviços para manipulação de dados
-  - [ ]  3.1: Criar repositório JPA para a entidade `Produto`
+  - [X]  3.1: Criar repositório JPA para a entidade `Produto`
   - [ ]  3.2: Implementar serviço `ProdutoService` com operações CRUD
   - [ ]  3.3: Testar serviço com dados simulados
 
