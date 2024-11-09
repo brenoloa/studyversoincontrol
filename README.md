@@ -29,10 +29,10 @@ Este arquivo contém uma lista detalhada de tarefas para a implementação do ba
 
 ### 4. Endpoints REST para CRUD
 
-- [ ]  **4-endpoints-backend**: Implementar controladores REST para expor as operações CRUD
-  - [ ]  4.1: Criar controlador REST com endpoints `POST`, `GET`, `PUT`, `DELETE` para `Produto`
-  - [ ]  4.2: Validar dados de entrada com `@Valid`
-  - [ ]  4.3: Testar endpoints usando Postman ou Insomnia
+- [X]  **4-endpoints-backend**: Implementar controladores REST para expor as operações CRUD
+  - [X]  4.1: Criar controlador REST com endpoints `POST`, `GET`, `PUT`, `DELETE` para `Produto`
+  - [X]  4.2: Validar dados de entrada com `@Valid`
+  - [X]  4.3: Testar endpoints usando Postman ou Insomnia
 
 ### 5. Testes Unitários e de Integração
 
